@@ -1,0 +1,206 @@
+,Month,Total Loan Amount,Loan Processor
+0,1,647000,Helen Nguyen
+1,1,200000,Helen Nguyen
+2,1,695000,Christine Le
+3,1,900000,Helen Nguyen
+4,1,420000,Tram Nguyen
+5,1,320000,Christine Le
+6,1,1319500,Tram Nguyen
+7,1,520000,Tram Nguyen
+8,1,336000,Christine Le
+9,1,1280000,Christine Le
+10,1,750000,Helen Nguyen
+11,1,733000,Christine Le
+12,1,510000,Helen Nguyen
+13,1,528000,Helen Nguyen
+14,1,617500,Christine Le
+15,1,2660000,Christine Le
+16,1,1500000,Helen Nguyen
+17,1,1085000,Tram Nguyen
+18,1,480000,Christine Le
+19,1,864491,Christine Le
+20,2,630000,Christine Le
+21,2,450000,Christine Le
+22,2,300000,Nhu Bui
+23,2,330000,Helen Nguyen
+24,2,380000,Helen Nguyen
+25,2,665000,Christine Le
+26,2,1170000,Christine Le
+27,2,954000,Christine Le
+28,2,300000,Yen Pham
+29,2,792000,Christine Le
+30,2,485000,Nhu Bui
+31,2,960000,Helen Nguyen
+32,2,670000,Nhu Bui
+33,2,344000,Nhu Bui
+34,2,405000,Helen Nguyen
+35,2,530000,Nhu Bui
+36,2,1415000,Christine Le
+37,2,1420000,Helen Nguyen
+38,2,1600000,Christine Le
+39,2,556000,Tram Nguyen
+40,2,526000,Christine Le
+41,2,825000,Christine Le
+42,2,660000,Tram Nguyen
+43,2,590000,Christine Le
+44,2,675000,Helen Nguyen
+45,2,400000, 
+46,2,592695,Helen Nguyen
+47,2,1500000,Christine Le
+48,2,560000,Christine Le
+49,2,617000,Nhu Bui
+50,2,600000,Helen Nguyen
+51,2,1000000,Helen Nguyen
+52,2,510000,Nhu Bui
+53,2,243000,Helen Nguyen
+54,3,530000,Tram Nguyen
+55,3,720000,Christine Le
+56,3,328105, 
+57,3,316000,Nhu Bui
+58,3,480000,Christine Le
+59,3,430000,Nhu Bui
+60,3,600000,Christine Le
+61,3,395200,Christine Le
+62,3,420000,Tram Nguyen
+63,3,400000, 
+64,3,646000,Christine Le
+65,3,180000, 
+66,3,288000,Helen Nguyen
+67,3,715000,Helen Nguyen
+68,3,595000,Nhu Bui
+69,3,417935,Yen Pham
+70,3,385000,Nhu Bui
+71,3,420000,Christine Le
+72,3,910000,Processor User
+73,3,780000,Christine Le
+74,3,1200000, 
+75,3,560000,Helen Nguyen
+76,3,237400,Nhu Bui
+77,3,371000,Helen Nguyen
+78,3,400000,Christine Le
+79,3,325000,Nhu Bui
+80,3,950000,Helen Nguyen
+81,3,640000,Christine Le
+82,3,825000,Tram Nguyen
+83,3,975000,Christine Le
+84,3,526000,Tram Nguyen
+85,3,910000,Christine Le
+86,3,1000000,Nhu Bui
+87,3,720000,Christine Le
+88,3,570000,Nhu Bui
+89,3,525000,Christine Le
+90,3,336000,Nhu Bui
+91,3,400000,Christine Le
+92,3,5000000,Tram Nguyen
+93,3,330000,Nhu Bui
+94,3,960000,Yen Pham
+95,3,617500,Nhu Bui
+96,3,880000,Helen Nguyen
+97,3,480000,Yen Pham
+98,3,220000,Nhu Bui
+99,4,300000, 
+100,4,540000,Nhu Bui
+101,4,365000,Nhu Bui
+102,4,380000,Tram Nguyen
+103,4,525000, 
+104,4,165000, 
+105,4,225000, 
+106,4,300000, 
+107,4,440000, 
+108,4,900000,Nhu Bui
+109,4,484000,Tram Nguyen
+110,4,940000, 
+111,4,870000,Nhu Bui
+112,4,175000, 
+113,4,300000,Yen Pham
+114,4,700000, 
+115,4,470000, 
+116,4,315000, 
+117,4,626000, 
+118,4,647000, 
+119,4,450000, 
+120,4,210000, 
+121,4,646000,Nhu Bui
+122,4,480000,Yen Pham
+123,4,760000, 
+124,5,176000, 
+125,5,440000,Tram Nguyen
+126,5,418000,Nguyen Phung
+127,5,270000,Christine Le
+128,5,440000,Yen Pham
+129,5,420000,Christine Le
+130,5,350000, 
+131,5,217000,Nhu Bui
+132,5,344000, 
+133,5,1625000,Tram Nguyen
+134,5,620000, 
+135,5,647000, 
+136,5,318500,Nhu Bui
+137,5,603000,Nhu Bui
+138,5,765000, 
+139,5,750000,Christine Le
+140,5,968000, 
+141,5,252000, 
+142,5,970000,Christine Le
+143,5,350000, 
+144,6,180000,Helen Nguyen
+145,6,410000,Nhu Bui
+146,6,410000,Nhu Bui
+147,6,330000,Christine Le
+148,6,588000,Yen Pham
+149,6,300000,Nhu Bui
+150,6,603000,Yen Pham
+151,6,600000, 
+152,6,700000,Christine Le
+153,6,664000,Nhu Bui
+154,6,320000,Nhu Bui
+155,6,440000, 
+156,6,232500,Nhu Bui
+157,6,1720000, 
+158,6,550000,Nhu Bui
+159,6,500000, 
+160,6,490943, 
+161,6,970000, 
+162,7,405000,Christine Le
+163,7,406000, 
+164,7,550000, 
+165,7,206000, 
+166,8,880000,Nhu Bui
+167,8,1492000, 
+168,8,500000, 
+169,8,764000, 
+170,8,862500, 
+171,8,850000,Yen Pham
+172,8,543816,Nguyen Phung
+173,8,265000, 
+174,8,395000,Hera Tran
+175,8,460000, 
+176,8,144000, 
+177,8,200000, 
+178,8,520000, 
+179,8,540000, 
+180,8,208000, 
+181,8,530000, 
+182,8,496000, 
+183,8,252000,Nhu Bui
+184,8,320000, 
+185,8,600000, 
+186,8,760000, 
+187,9,970000,Nhu Bui
+188,9,480000, 
+189,9,1040000, 
+190,9,500000, 
+191,9,810600,Christine Le
+192,9,1040000, 
+193,9,800000, 
+194,10,700000, 
+195,10,1172000, 
+196,10,750000, 
+197,10,168000, 
+198,11,1053000,Nhu Bui
+199,11,288897,Helen Nguyen
+200,12,560000,Nhu Bui
+201,12,521000,Helen Nguyen
+202,12,892500,Christine Le
+203,12,530000,Christine Le
+204,12,1420000,Christine Le
