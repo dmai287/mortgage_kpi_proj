@@ -2,6 +2,8 @@
 
 Welcome to the **Mortgage KPI Project**! This repository is dedicated to analyzing key performance indicators (KPIs) in the mortgage industry using data analytics and visualization tools. The goal is to provide valuable insights into mortgage trends, risk assessment, and portfolio performance.
 
+The project is deployed on Steamlit at: https://pacificwidekpi.streamlit.app/ - Give it a try (Email: datmai@pacificwide.com & PW: Test123) 
+
 ## Overview
 
 The mortgage industry generates vast amounts of data that, when analyzed correctly, can offer significant insights for lenders, investors, and policymakers. This project leverages statistical analysis and machine learning techniques to evaluate mortgage KPIs, helping stakeholders make informed decisions.
